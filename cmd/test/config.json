@@ -1,0 +1,9 @@
+{
+	"local_port":1080,
+	"local_address":"10.67.10.101",
+	"timeout":600,
+	"server":["104.224.153.126", "127.0.0.1", "10.100.3.33"],
+	"server_password":[
+		["104.224.153.126:7989", "bigcat133@gmail.com", "aes-256-cfb", "19001", "test_porxy"]
+	]
+}
